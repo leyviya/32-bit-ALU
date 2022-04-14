@@ -1,2 +1,3 @@
 # 32-bit-ALU
-Computer Organisation Project
+
+Computer Organization Project
